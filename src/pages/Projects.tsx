@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, ExternalLink, Code, Database, Brain, LineChart } from 'lucide-react';
+import { Github, ExternalLink, Database, Brain, LineChart } from 'lucide-react';
 
 function Projects() {
   const projects = [

@@ -37,10 +37,10 @@ function Research() {
 
   return (
     <div className="container mx-auto px-6 py-16">
-      <h1 className="text-4xl font-bold mb-12 text-center">Research Publications</h1>
+      <h1 className="text-4xl font-bold mb-12 text-center">Scientific Publications</h1>
       
       <div className="bg-gray-800 p-8 rounded-lg mb-12">
-        <h2 className="text-2xl font-bold mb-6">Research Focus</h2>
+        <h2 className="text-2xl font-bold mb-6">Scientific Journals</h2>
         <p className="text-gray-300 mb-6">
           My research focuses on computational approaches to identify and analyze potential cancer drug targets, 
           particularly within the Mitogen-Activated Protein Kinase (MAPK) pathways. I employ network analysis, 
@@ -64,7 +64,7 @@ function Research() {
       </div>
       
       <div className="bg-gray-800 p-8 rounded-lg">
-        <h2 className="text-2xl font-bold mb-6">Publications</h2>
+        <h2 className="text-2xl font-bold mb-6">Scientific Journals Links</h2>
         <div className="space-y-6">
           {publications.map((pub, index) => (
             <div key={index} className="bg-gray-700 p-6 rounded-lg">

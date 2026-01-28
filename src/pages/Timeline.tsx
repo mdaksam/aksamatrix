@@ -7,9 +7,9 @@ function Timeline() {
     {
       title: "Principal Data Scientist",
       company: "Securin",
-      date: "June 2024 - Present",
+      date: "June 2024 - December 2024",
       description:
-        "Securin Attack Surface Management empowers organizations to discover assets and prioritize exposures and misconfigurations that could lead to a breach.",
+        "Securin Attack Surface Management empowers organizations to discover assets and prioritize exposures and misconfigurations that could lead to a breach.LLM and Machine Learning in Cybersecurity data driven decisions. Customized Risk Modeling to its Vulnerability and Predicting the next exploitation",
       icon: <Building2 className="w-5 h-5 text-white" />,
     },
     {
@@ -17,7 +17,7 @@ function Timeline() {
       company: "Securin",
       date: "May 2021 - June 2024",
       description:
-        "Chennai, Tamil Nadu, India. Working on (MAPK) pathways: Characteristics and potential as drug targets scoring algorithms, LLM and Machine Learning in Cybersecurity data-driven decisions. Customized Risk Modeling to its Vulnerability and Predicting the next exploitation.",
+        "Chennai, Tamil Nadu, India. Working on Large Language Model Operations (LLMOps),Natural Language Processing (NLP),Python (Programming Language),Decision Sciences and Kubeflow.",
       icon: <Building2 className="w-5 h-5 text-white" />,
     },
     {
@@ -57,7 +57,7 @@ function Timeline() {
       company: "Indian Institute of Science (IISc)",
       date: "November 2011 - March 2012",
       description:
-        "Project on 'Developing efficient and robust numerical scheme for the 3-D free surface and two-phase flow'.",
+        "– Parallel programming implementation of fluid mechanics problem using high performance computer. Project entitled 'Developing efficient and robust numerical scheme for the 3-D free surface and two-phase flow'.",
       icon: <Building2 className="w-5 h-5 text-white" />,
     },
   ];
